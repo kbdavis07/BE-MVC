@@ -1,6 +1,8 @@
 BE-MVC
 ======
 
+[![Join the chat at https://gitter.im/kbdavis07/BE-MVC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kbdavis07/BE-MVC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 MVC Version of BlogEngine.Net
 
 This project is an attempt to help develop a pure MVC version of BlogEngine.Net.  This is not a replacement for BlogEngine.net just a means to discover what it would take to develop and have a pure MVC version of BlogEngine.Net.
